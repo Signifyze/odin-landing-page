@@ -21,7 +21,8 @@ ul {
 }
 
 .container ul,
-.secondary-text {
+.secondary-text,
+.footer-text {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -174,3 +175,12 @@ p {
     border: 2px solid #F9FAF8;
 }
 
+.footer {
+    background-color: #1F2937;
+    padding: 50px;
+}
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
