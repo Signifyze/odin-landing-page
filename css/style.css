@@ -19,7 +19,8 @@ ul {
     font-weight: 700;
 }
 
-.container ul {
+.container ul,
+.secondary-text {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -36,4 +37,19 @@ ul {
 .container .links {
     display: flex;
     gap: 24px;
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 8px 24px;
+    border-radius: 10px;
 }
