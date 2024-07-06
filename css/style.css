@@ -87,3 +87,27 @@ button {
     color: #1F2937;
     text-align: center;
 }
+
+.section-two .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.cards {
+    display: flex;
+    gap: 50px;
+    max-width: 800px;
+    text-align: center;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+
+}
+.space {
+    border: 4px solid #3882F6;
+    flex: 1 1 160px;
+    border-radius: 10px;
+}
