@@ -3,7 +3,8 @@ html {
     font-style: normal;
 }
 
-.navbar {
+.navbar,
+.section-one {
     background-color: #1F2937;
 }
 
@@ -52,4 +53,16 @@ button {
     font-size: 18px;
     padding: 8px 24px;
     border-radius: 10px;
+}
+
+.section-one .container {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.placeholder {
+    color: #F9FAF8;
+    background-color: gray;
+    flex: 1 1 600px;
 }
