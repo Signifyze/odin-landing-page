@@ -80,3 +80,10 @@ button {
     align-items: flex-start;
     flex: 5;
 }
+
+.section-two .header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
