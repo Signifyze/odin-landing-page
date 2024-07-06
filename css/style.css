@@ -7,7 +7,20 @@ html {
     background-color: #1F2937;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 .container .logo {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 700;
+}
+
+.container ul {
+    font-size: 18px;
+    color: #E5E7EB;
+    
 }
