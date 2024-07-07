@@ -1,4 +1,4 @@
-html {
+body {
     font-family: "Roboto", sans-serif;
     font-style: normal;
 }
@@ -51,8 +51,6 @@ ul {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
-    padding: 0;
-    margin: 0;
 }
 
 .section-one button {
@@ -142,7 +140,6 @@ ul {
     font-weight: 100;
     font-style: italic;
     color: #1F2937;
-    padding: 0;
 }
 
 .signature {
@@ -173,7 +170,7 @@ ul {
     color: #F9FAF8;
     font-weight: bold;
     font-size: 18px;
-    padding: 0px 36px;
+    padding: 0 36px;
     border-radius: 10px;
     border: 2px solid #F9FAF8;
 }
@@ -182,6 +179,7 @@ ul {
     background-color: #1F2937;
     padding: 50px;
 }
+
 .footer .container {
     display: flex;
     justify-content: center;
