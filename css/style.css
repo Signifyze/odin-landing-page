@@ -64,6 +64,7 @@ a {
     font-size: 18px;
     padding: 8px 24px;
     border-radius: 10px;
+    border: none;
 }
 
 .section-one .container {
