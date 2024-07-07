@@ -3,6 +3,11 @@ html {
     font-style: normal;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .navbar,
 .section-one {
     background-color: #1F2937;
